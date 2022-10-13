@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Luthern
+- 👋 Hi, I’m Luthern
 - 👀 I’m interested in Cloud computing
 - 🌱 I’m currently learning Google cloud platform
 - 💞️ I’m looking to collaborate on entry level cloud projects
