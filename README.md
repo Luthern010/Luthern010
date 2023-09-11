@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luthern
 - 👀 A renowned Full Stack Developer
-- 🌱 Front Manster
+- 🌱 A Frontend Master
 - 💞️ I’m looking to collaborate on World Class Projects
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/ibrahim-ajayi-5359a6104/) , [WhatsApp](https://wa.me/2349050187732)
 
